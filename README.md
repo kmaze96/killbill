@@ -40,4 +40,5 @@ Looking for statistics? This project does not use a monolithic repository, but i
 
 ### About Kill Bill
 
+
 [Martin Westhead](https://www.linkedin.com/pub/martin-westhead/1/75a/248), [Pierre-Alexandre Meyer](https://www.linkedin.com/in/pierrealexandremeyer), and [Stéphane Brossier](https://www.linkedin.com/in/stephanebrossier) founded the project independently in 2010. The Billing Project, LLC owns the Kill Bill codebase and trademarks. Professional services, sponsorships, and commercial support packages are available [upon request](https://killbill.io/contact-us/).
